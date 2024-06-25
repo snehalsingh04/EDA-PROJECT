@@ -6,6 +6,7 @@ Exploratory Data Analysis-
   2. Involves techniques to summarize, visualize and Explore the Main characteristics of the dataset
   3. Identifying data quality issues, outliers and missing values.
   4. Finds relationships between variables.
+
 Steps involved in this project:
   1. Data collection- Gathering the required data set from Kaggle.
   2. Data cleaning and processing- Handling missing values and duplicated values.
